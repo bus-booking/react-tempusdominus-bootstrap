@@ -45,7 +45,7 @@ import {
   featherIconTypeFactory,
   noIconTypeFactory,
 } from "../factories/iconFactory";
-import "bootstrap";
+
 import "tempusdominus-bootstrap";
 import "moment-timezone";
 import styles from "../styles.scss";
